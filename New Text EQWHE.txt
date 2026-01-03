@@ -1,0 +1,5 @@
+<h3>Pay Online (PhonePe / UPI)</h3>
+<a href="phonepe://pay?pn=DEEPAK%20SUTAR&pa=9938110965@ybl&cu=INR">
+  <img src="Deepak_TAXin_PhonePe_UPI_QR.png" width="220">
+</a>
+<p>Scan or click to pay via PhonePe / UPI</p>
